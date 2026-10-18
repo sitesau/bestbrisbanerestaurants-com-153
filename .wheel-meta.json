@@ -1,0 +1,22 @@
+{
+  "wheel_id": 419,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-com-153",
+  "project": "restaurants-brisbane-glossary-a566d049dfea659955afbb0b4c2d8cc08",
+  "parent_t1_ref": "bestbrisbanerestaurants.com-009",
+  "node_role": "buffer",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurants brisbane glossary",
+  "intended_url": "https://sites-e470-2.web.app/restaurants-brisbane-glossary-a566d049dfea659955afbb0b4c2d8cc08/",
+  "tier": "T2",
+  "writeback_nonce": "9b0cba8683abe8ec",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/restaurants-brisbane/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
